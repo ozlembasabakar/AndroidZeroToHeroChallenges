@@ -43,5 +43,5 @@ fun evaluateExpression(expression: String): String {
         output.add(operatorStack.removeLast())
     }
 
-    return output.joinToString(" ")
+    return "Result: ${output.joinToString(" ")}"
 }
