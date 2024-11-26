@@ -5,27 +5,27 @@ If the operator is invalid or the user attempts to divide by zero, your program 
 
 Implement the function `calculate(a: Float, b: Float, operator: String) -> String`.
 
-`a` (float): The first operand.
+- `a` (float): The first operand.
 
-`b` (float): The second operand.
+- `b` (float): The second operand.
 
-`operator` (string): A string representing the operation (`+`, `-`, `*`, `/`).
+- `operator` (string): A string representing the operation (`+`, `-`, `*`, `/`).
 
 The function should return:
 
-A string containing the result of the operation formatted as `"Result: {value}"`.
+- A string containing the result of the operation formatted as `"Result: {value}"`.
 
-If the operator is invalid, return `"Error: Invalid operator"`.
+- If the operator is invalid, return `"Error: Invalid operator"`.
 
-If the operation involves division by zero, return `"Error: Division by zero"`.
+- If the operation involves division by zero, return `"Error: Division by zero"`.
 
 ### Input Format
 
 You do not need to handle input/output directly. Your function will be tested with the following inputs:
 
-Two floating-point numbers `a` and `b`.
+- Two floating-point numbers `a` and `b`.
 
-A string `operator` representing the operation.
+- A string `operator` representing the operation.
 
 ### Constraints
 
