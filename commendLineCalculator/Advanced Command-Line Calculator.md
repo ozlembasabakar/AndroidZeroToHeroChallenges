@@ -24,7 +24,7 @@ You do not need to handle input/output directly. Your function will be tested wi
   
 **Sample Input 1**
 ```
-expression = 3 + 5 * (2 - 8) / 4
+3 + 5 * (2 - 8) / 4
 ```
 
 **Sample Output 1**
@@ -37,7 +37,7 @@ In Sample Input 1, the expression is evaluated respecting operator precedence, r
 
 **Sample Input 2**
 ```
-expression = 3 + (5 - 2) / (1 - 1)
+3 + (5 - 2) / (1 - 1)
 ```
 
 **Sample Output 2**
