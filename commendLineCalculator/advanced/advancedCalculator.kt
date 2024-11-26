@@ -1,5 +1,5 @@
 fun evaluateExpression(expression: String): String {
-    
+
     val output = java.util.ArrayDeque<String>()
     val operatorStack = java.util.ArrayDeque<String>()
 
@@ -38,7 +38,7 @@ fun evaluateExpression(expression: String): String {
             }
         }
     }
-    
+
     while (operatorStack.isNotEmpty()) {
         output.add(operatorStack.removeLast())
     }
