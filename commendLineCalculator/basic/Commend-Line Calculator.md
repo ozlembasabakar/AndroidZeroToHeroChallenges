@@ -15,9 +15,9 @@ The function should return:
 
 - A string containing the result of the operation formatted as `"Result: {value}"`.
 
-- If the operator is invalid, return `"Error: Invalid operator"`.
+- If the operator is invalid, return `Error: Invalid operator. Please use +, -, *, or /.`.
 
-- If the operation involves division by zero, return `"Error: Division by zero"`.
+- If the operation involves division by zero, return `Error: Division by zero is not allowed.`.
 
 ### Input Format
 
@@ -58,7 +58,7 @@ operator = "/"
 
 **Sample Output 2**
 ```
-Error: Division by zero
+Error: Division by zero is not allowed.
 ```
 
 **Explanation**
