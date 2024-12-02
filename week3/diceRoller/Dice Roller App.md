@@ -3,12 +3,12 @@ Create a simple app where users can roll a dice and see the result. This homewor
 
 ### Requirements:
 1. Create a UI with the following components:
-  - A `Button` labeled "Roll Dice."
-  - A `TextView` to display the rolled number (1-6).
-  - An `ImageView` to display the dice face corresponding to the rolled number.
+- A `Button` labeled "Roll Dice."
+- A `TextView` to display the rolled number (1-6).
+- An `ImageView` to display the dice face corresponding to the rolled number.
 2. When the user taps the button:
-  - Generate a random number between 1 and 6.
-  - Update the `TextView` with the number and the `ImageView` with the corresponding dice face image.
+- Generate a random number between 1 and 6.
+- Update the `TextView` with the number and the `ImageView` with the corresponding dice face image.
 3. Include at least 6 dice face images in your `drawable` folder for numbers 1 to 6.
 
 ### Learning Goals:
