@@ -1,16 +1,20 @@
 ### Overview:
-Create a simple app where users can add colors to the favorites list and generate new color. This homework focuses on building a basic UI and handling user interactions. Either View-Based UI or Jetpack Compose can be used.
+Create a simple app with support for splitting bills among multiple people after tip added. This homework focuses on building a basic UI and handling user interactions. Either View-Based UI or Jetpack Compose can be used.
 
 ### Requirements:
 1. Create a UI with the following components:
-- An `ImageView` to display the generated color.
-- A `Button` labeled ***Generate*** to generate a color swatch and its RGB values.
-- A `Button` labeled ***Save Color*** to saves the current generated color to the ***Favorites*** list. This list must have at most 5 elements.
-- A list (this can be `Column` or `Linear Layout` with `TextView`) to display the favorite colors.
-- Optional: Allow users to set the last added color to ***Favorites*** as the current background color.
- 
+- An `EditText` for the user to enter the bill amount.
+- Multiple `Button`s for selecting a tip percentage (e.g., 10%, 15%, 20%).
+- An `EditText` for specifying the number of people splitting the bill.
+- `TextView` elements to display:
+    - Total tip amount.
+    - Total bill amount.
+    - Per-person amount.
+2. Calculate and display updated values as the user inputs data.
+3. Add validation to ensure inputs are valid (e.g., positive numbers).
+
 ### Learning Goals:
-- Understand how to create a basic list using `Button`, `Column` or `Linear Layout` with `TextView`, and `ImageView`.
-- Learn to handle button click events using `onClickListener` or `onClick`.
-- Learn how to manage and transition app state programmatically.
+- Learn to combine multiple input methods (`EditText`, `Button`, etc.) in a single UI.
+- Practice mathematical calculations in the app.
+- Understand input validation and error handling.
 - Understand updateing the ui programmatically.
