@@ -1,18 +1,16 @@
 ### Overview:
-Create a simple app where users can roll a dice and see the result. This homework focuses on building a basic UI and handling user interactions. View-Based UI or Jetpack Compose can be used.
+Create a simple app where users can add colors to the favorites list and generate new color. This homework focuses on building a basic UI and handling user interactions. Either View-Based UI or Jetpack Compose can be used.
 
 ### Requirements:
 1. Create a UI with the following components:
-- A `Button` labeled "Roll Dice."
-- A `TextView` to display the rolled number (1-6).
-- An `ImageView` to display the dice face corresponding to the rolled number.
-2. When the user taps the button:
-- Generate a random number between 1 and 6.
-- Update the `TextView` with the number and the `ImageView` with the corresponding dice face image.
-3. Include at least 6 dice face images in your `drawable` folder for numbers 1 to 6.
-
+- An `ImageView` to display the generated color.
+- A `Button` labeled ***Generate*** to generate a color swatch and its RGB values.
+- A `Button` labeled ***Save Color*** to saves the current generated color to the ***Favorites*** list. This list must have at most 5 elements.
+- A list (this can be `Column` or `Linear Layout` with `TextView`) to display the favorite colors.
+- Optional: Allow users to set the last added color to ***Favorites*** as the current background color.
+ 
 ### Learning Goals:
-- Understand how to create a basic app layout using `Button`, `TextView,` and `ImageView`.
+- Understand how to create a basic list using `Button`, `Column` or `Linear Layout` with `TextView`, and `ImageView`.
 - Learn to handle button click events using `onClickListener` or `onClick`.
-- Practice generating random numbers in Kotlin.
-- Understand resource management by using `drawable` assets for images.
+- Learn how to manage and transition app state programmatically.
+- Understand updateing the ui programmatically.
