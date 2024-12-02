@@ -13,7 +13,7 @@ Implement the function `guessTheNumber() -> String`.
 The function should return:
 
 - A string containing the feedback for the guess, formatted as `+ - -` (or other combinations of `+` and `-`).
-- If the guess is invalid (e.g., not 4 digits or contains repeating digits), return "Error: Invalid guess".
+- If the guess is invalid (e.g., not 4 digits or contains repeating digits), return `Invalid input. Please enter a ${NUM_DIGITS}-digit number.`.
 - After the game ends (either by correctly guessing the number or running out of attempts), the function prints a message and ends the game.
 
 ### Game Logic
