@@ -1,49 +1,18 @@
-Create a program that evaluates mathematical expressions containing multiple operators and parentheses. The program must respect operator precedence and correctly handle parentheses. Use either a stack-based approach (for example Shunting Yard) or recursive parsing to evaluate the expression.
+### Overview:
+Create a simple app where users can roll a dice and see the result. This homework focuses on building a basic UI and handling user interactions. View-Based UI or Jetpack Compose can be used.
 
-### Function Description
-Implement the function `evaluateExpression(expression: String) -> String`.
+### Requirements:
+1. Create a UI with the following components:
+  - A `Button` labeled "Roll Dice."
+  - A `TextView` to display the rolled number (1-6).
+  - An `ImageView` to display the dice face corresponding to the rolled number.
+2. When the user taps the button:
+  - Generate a random number between 1 and 6.
+  - Update the `TextView` with the number and the `ImageView` with the corresponding dice face image.
+3. Include at least 6 dice face images in your `drawable` folder for numbers 1 to 6.
 
-- expression (string): A valid mathematical expression containing integers, operators (`+`, `-`, `*`, `/`), and parentheses.
-  
-The function should return:
-
-- A string containing the result of the evaluated expression formatted as `"Result: {value}"`.
-- If the input expression is invalid, return `"Error: Invalid expression"`.
-- If the expression attempts division by zero, return `"Error: Division by zero"`.
-
-### Input Format
-
-You do not need to handle input/output directly. Your function will be tested with the following input:
-
-- A single string representing a mathematical expression.
-  
-### Constraints
-
-- The input expression contains only valid characters: digits (`0-9`), operators (`+`, `-`, `*`, `/`), parentheses (`(`, `)`), and spaces.
-- Division by zero must be handled gracefully.
-  
-**Sample Input 1**
-```
-3 + 5 * (2 - 8) / 4
-```
-
-**Sample Output 1**
-```
-Result: -3.5
-```
-**Explanation**
-
-In Sample Input 1, the expression is evaluated respecting operator precedence, resulting in `-3.5`.
-
-**Sample Input 2**
-```
-3 + (5 - 2) / (1 - 1)
-```
-
-**Sample Output 2**
-```
-Error: Division by zero
-```
-**Explanation**
-
-In Sample Input 2, division by zero occurs, so an error message is returned.
+### Learning Goals:
+- Understand how to create a basic app layout using `Button`, `TextView,` and `ImageView`.
+- Learn to handle button click events using `onClickListener` or `onClick`.
+- Practice generating random numbers in Kotlin.
+- Understand resource management by using `drawable` assets for images.
