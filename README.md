@@ -99,3 +99,18 @@ git push origin john_doe_hw3
    - [Question](https://github.com/ozlembasabakar/AndroidZeroToHeroChallenges/blob/main/week3/tipCalculator/Tip%20Calculator%20App.md)
      
 </details>
+
+### 
+
+<details>
+  <summary><b> Week4-5 </b></summary>
+
+   1. ChatApp
+      - [Question](https://github.com/ozlembasabakar/AndroidZeroToHeroChallenges/blob/main/week4-5/ChatApp.md)
+
+   2. FoodDeliveryApp
+      - [Question](https://github.com/ozlembasabakar/AndroidZeroToHeroChallenges/blob/main/week4-5/FoodDeliveryApp.md)
+
+   3. SocialMediaApp
+      - [Question](https://github.com/ozlembasabakar/AndroidZeroToHeroChallenges/blob/main/week4-5/SocialMediaApp.md)
+</details>
