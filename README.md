@@ -100,17 +100,26 @@ git push origin john_doe_hw3
      
 </details>
 
-### 
+<b></b>
 
 <details>
-  <summary><b> Week4-5 </b></summary>
+  <summary><b> Week 4-5 </b></summary>
 
-   1. ChatApp
-      - [Question](https://github.com/ozlembasabakar/AndroidZeroToHeroChallenges/blob/main/week4-5/ChatApp.md)
+   1. [ChatApp](https://github.com/ozlembasabakar/AndroidZeroToHeroChallenges/blob/main/week4-5/ChatApp.md)
 
-   2. FoodDeliveryApp
-      - [Question](https://github.com/ozlembasabakar/AndroidZeroToHeroChallenges/blob/main/week4-5/FoodDeliveryApp.md)
+   2. [FoodDeliveryApp](https://github.com/ozlembasabakar/AndroidZeroToHeroChallenges/blob/main/week4-5/FoodDeliveryApp.md)
 
-   3. SocialMediaApp
-      - [Question](https://github.com/ozlembasabakar/AndroidZeroToHeroChallenges/blob/main/week4-5/SocialMediaApp.md)
+   3. [SocialMediaApp](https://github.com/ozlembasabakar/AndroidZeroToHeroChallenges/blob/main/week4-5/SocialMediaApp.md)
+</details>
+
+<details>
+  <summary><b> Week 8-9 </b></summary>
+  
+  - [NavigationImplementation](https://github.com/ozlembasabakar/AndroidZeroToHeroChallenges/blob/main/week%208-9/NavigationImplementation.md)
+</details>
+
+<details>
+  <summary><b> Week 12-13 </b></summary>
+  
+  - [RecyclerViewImplementation](https://github.com/ozlembasabakar/AndroidZeroToHeroChallenges/blob/main/week%2012-13/RecyclerViewImplementation.md)
 </details>
