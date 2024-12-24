@@ -5,6 +5,8 @@ You can find the design reference for this homework: [Figma Design Link]([https:
 
 Please make sure to implement the given design as closely as possible.
 
+_! No scrollable screens are expected._
+
 ### Requirements
 - Implement `Landing`, `Phone Gallery`, `Upload - Chat Start` and `Chat` screens.
 - Use resources from figma design. 
