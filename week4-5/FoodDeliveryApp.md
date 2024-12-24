@@ -5,6 +5,8 @@ You can find the design reference for this homework: [Figma Design Link](https:/
 
 Please make sure to implement the given design as closely as possible.
 
+_! Please use non-scrollable lists. This feature will be added after weeks 12 and 13._
+
 ### Requirements
 - Implement `Splash screen`, `Homepage`, `Product listing page`, `Product details page` and `Profile` screens.
 - Use resources from figma design. 
@@ -37,7 +39,7 @@ Please make sure to implement the given design as closely as possible.
    - Add `Profile` screen when pressed `Profile` icon in the `Homepage`. You can also show your CV on this page
 
 ### Learning Goals:
-- Understand how to create a basic app layout using list(`RecyclerView`, `Column`, etc.), `Button`, `TextView,` and `ImageView`.
+- Understand how to create a basic app layout using list, `Button`, `TextView,` and `ImageView`.
 - Learn to handle button click events using `onClickListener` or `onClick`.
 - Pass relevant data of the clicked item to a new screen.
 - Practice navigation operations.
