@@ -7,6 +7,8 @@ Please make sure to implement the given design as closely as possible.
 
 _! There is no need to perform real login or signup operations. This exercise focuses on building UI and basic navigation operations._
 
+_! Please use non-scrollable lists. This feature will be added after weeks 12 and 13._
+
 ### Requirements
 - Implement `Splash screen`, `Signup Screen`, `Login Screen` and `Main Screen` screens.
 - Use resources from figma design. 
@@ -41,7 +43,7 @@ _! There is no need to perform real login or signup operations. This exercise fo
    - Add dialogs when pressed the `Google` or `Facebook` icons. There is no need to perform real login operations. Opening a text dialog is enough. 
 
 ### Learning Goals:
-- Understand how to create a basic app layout using list(`RecyclerView`, `Column`, etc.), `Button`, `TextView,` and `ImageView`.
+- Understand how to create a basic app layout using list, `Button`, `TextView,` and `ImageView`.
 - Learn to handle button click events using `onClickListener` or `onClick`.
 - Practice detail of the UI design.
 - Practice navigation operations.
