@@ -1,18 +1,48 @@
-### Overview:
-Create a simple app where users can roll a dice and see the result. This homework focuses on building a basic UI and handling user interactions. View-Based UI or Jetpack Compose can be used.
+### Overview
+Create an app where users can scroll on social media. This homework focuses on building a basic UI, handling user interactions, working with lists, etc. You may use View-Based UI or Jetpack Compose to complete this task.
 
-### Requirements:
-1. Create a UI with the following components:
-- A `Button` labeled "Roll Dice."
-- A `TextView` to display the rolled number (1-6).
-- An `ImageView` to display the dice face corresponding to the rolled number.
-2. When the user taps the button:
-- Generate a random number between 1 and 6.
-- Update the `TextView` with the number and the `ImageView` with the corresponding dice face image.
-3. Include at least 6 dice face images in your `drawable` folder for numbers 1 to 6.
+You can find the design reference for this homework: [Figma Design Link](https://www.figma.com/design/osgv4l25V3DdTgKsLhujGV/Social-Media-App-Design-%7C-Social-Media-App---Tracely-(Community)?node-id=53-344&t=O8pcnKEOocu5uAzm-0)
+
+Please make sure to implement the given design as closely as possible.
+
+_! There is no need to perform real login or signup operations. This exercise focuses on building UI and basic navigation operations._
+
+### Requirements
+- Implement `Splash screen`, `Signup Screen`, `Login Screen` and `Main Screen` screens.
+- Use resources from figma design. 
+- Write clean, readable, and reusable code with proper comments.
+- Implement multiple language support. 
+- Implement light and dark themes.
+- Create a list for post and use that in `Main Screen` screen to obtain the design.
+
+### Flow
+1. `Splash screen` screen should be shown. 
+2. When button pressed, should navigate to the `Signup Screen` screen.
+3. When pressed `Login` next to the `Already have account?`, should navigate to the `Login Screen`.
+4. When pressed `Sign in` next to the `Don’t have account?`, should navigate to the `Signup Screen`.
+5. Pressed `Sign Up` or `Login`, should navigate to the `Main Screen` screen.
+
+### Submission
+1. GitHub Repository:
+   - Include your code in a new branch of the main repository of homeworks.
+   - Provide a README file with:
+     - A short description of the task.
+     - Steps to set up and run the app.
+     - A list of features you implemented.
+
+2. Screenshots or Videos:
+   - Add screenshots or a short video demonstrating your app in action.
+
+3. Optional:
+   - Document any challenges faced or learnings in a separate markdown file (LEARNING.md).
+   - Add `Profile` screen when pressed `Profile` icon in the `Main Screen`. You can also show your CV on this page
+   - Add `Main Screen With Custom NavBar` screen.
+   - Add placeholder behaviour to the `Login Screen` and `Signup Screen`. Which are `Signup Screen With Placeholder` and `Login Screen With Placeholder`.
+   - Add dialogs when pressed the `Google` or `Facebook` icons. There is no need to perform real login operations. Opening a text dialog is enough. 
 
 ### Learning Goals:
-- Understand how to create a basic app layout using `Button`, `TextView,` and `ImageView`.
+- Understand how to create a basic app layout using list(`RecyclerView`, `Column`, etc.), `Button`, `TextView,` and `ImageView`.
 - Learn to handle button click events using `onClickListener` or `onClick`.
-- Practice generating random numbers in Kotlin.
-- Understand resource management by using `drawable` assets for images.
+- Practice detail of the UI design.
+- Practice navigation operations.
+- Practice using Figma.
