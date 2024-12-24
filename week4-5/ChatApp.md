@@ -35,7 +35,7 @@ Please make sure to implement the given design as closely as possible.
    - Document any challenges faced or learnings in a separate markdown file (LEARNING.md).
 
 ### Learning Goals:
-- Understand how to create a basic app layout using list(`RecyclerView`, `Column`, etc.), `Button`, `TextView,` and `ImageView`.
+- Understand how to create a basic app layout using list, `Button`, `TextView,` and `ImageView`.
 - Learn to handle button click events using `onClickListener` or `onClick`.
 - Practice basic navigation operations.
 - Practice using Figma.
