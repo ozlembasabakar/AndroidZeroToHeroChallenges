@@ -1,7 +1,7 @@
 ### Overview
 Create an app where users can sent and received messages. This homework focuses on  building a basic UI, handling user interactions, working with lists, etc. You may use View-Based UI or Jetpack Compose to complete this task.
 
-You can find the design reference for this homework: [Figma Design Link]([https://www.figma.com/design/LYKfnNqma76fcppvYgm2HV/Image-Detection-Chat-App-(Community)-(Copy)?node-id=302-205&node-type=canvas&t=VZncIXUWioeYSGUa-0](https://www.figma.com/design/LYKfnNqma76fcppvYgm2HV/Image-Detection-Chat-App-(Community)-(Copy)?node-id=302-205&node-type=canvas&t=VZncIXUWioeYSGUa-0))
+You can find the design reference for this homework: [Figma Design Link](https://www.figma.com/design/LYKfnNqma76fcppvYgm2HV/Image-Detection-Chat-App-(Community)-(Copy)?node-id=302-205&p=f&t=XvILGLmmyiL4Y52d-0)
 
 Please make sure to implement the given design as closely as possible.
 
