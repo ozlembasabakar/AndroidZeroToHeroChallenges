@@ -105,13 +105,19 @@ git push origin john_doe_hw3
 </details>
 
 <details>
-  <summary><b> Week 8-9 </b></summary>
+  <summary><b> Week 6-7 </b></summary>
   
   - [NavigationImplementation](https://github.com/ozlembasabakar/AndroidZeroToHeroChallenges/blob/main/week%208-9/NavigationImplementation.md)
 </details>
 
 <details>
-  <summary><b> Week 12-13 </b></summary>
+  <summary><b> Week 10-11 </b></summary>
   
   - [RecyclerViewImplementation](https://github.com/ozlembasabakar/AndroidZeroToHeroChallenges/blob/main/week%2012-13/RecyclerViewImplementation.md)
+</details>
+
+<details>
+  <summary><b> Week 12-13 </b></summary>
+  
+  - [ArchitectureImplementation](https://github.com/ozlembasabakar/AndroidZeroToHeroChallenges/blob/main/week%2012-13/ArchitectureImplementation.md)
 </details>
