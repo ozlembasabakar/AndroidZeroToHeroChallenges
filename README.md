@@ -47,10 +47,10 @@ git push origin john_doe_hw3
 
 ## Challenges
 
-### Basic
-
 <details>
   <summary><b> Week1 </b></summary>
+
+  ### Basic
 
    1. Commend-Line Calculator
       - [Question](https://github.com/ozlembasabakar/AndroidZeroToHeroChallenges/blob/main/commendLineCalculator/basic/Commend-Line%20Calculator.md)
@@ -59,26 +59,9 @@ git push origin john_doe_hw3
    2. Number Guessing Game
       - [Question](https://github.com/ozlembasabakar/AndroidZeroToHeroChallenges/blob/main/numberGuessingGame/basic/Number%20Guess%C4%B1ng%20Game.md)
       - [Solution](https://github.com/ozlembasabakar/AndroidZeroToHeroChallenges/blob/main/numberGuessingGame/basic/guessTheNumber.kt)
-     
-</details>
 
-<details>
-   
-<summary><b> Week3 </b></summary>
+  ### Advanced
 
-   1. Dice Roller App
-      - [Question](https://github.com/ozlembasabakar/AndroidZeroToHeroChallenges/blob/main/week3/diceRoller/Dice%20Roller%20App.md)
-   
-   2. Lemonade App
-      - [Question](https://github.com/ozlembasabakar/AndroidZeroToHeroChallenges/blob/main/week3/lemonade/Lemonade%20App.md)
-     
-</details>
-
-### Advanced
-
-<details>
-  <summary><b> Week1 </b></summary>
-   
 1. Commend-Line Calculator
    - [Question](https://github.com/ozlembasabakar/AndroidZeroToHeroChallenges/blob/main/commendLineCalculator/advanced/Advanced%20Command-Line%20Calculator.md)
    - [Solution](https://github.com/ozlembasabakar/AndroidZeroToHeroChallenges/blob/main/commendLineCalculator/advanced/advancedCalculator.kt)
@@ -86,21 +69,30 @@ git push origin john_doe_hw3
 2. Number Guessing Game
    - [Question](https://github.com/ozlembasabakar/AndroidZeroToHeroChallenges/blob/main/numberGuessingGame/advanced/Advanced%20Number%20Guessging%20Game.md)
    - [Solution](https://github.com/ozlembasabakar/AndroidZeroToHeroChallenges/blob/main/numberGuessingGame/basic/guessTheNumber.kt)
-     
+  
 </details>
 
 <details>
-  <summary><b> Week3 </b></summary>
    
+<summary><b> Week3 </b></summary>
+
+  ### Basic
+
+   1. Dice Roller App
+      - [Question](https://github.com/ozlembasabakar/AndroidZeroToHeroChallenges/blob/main/week3/diceRoller/Dice%20Roller%20App.md)
+   
+   2. Lemonade App
+      - [Question](https://github.com/ozlembasabakar/AndroidZeroToHeroChallenges/blob/main/week3/lemonade/Lemonade%20App.md)
+
+  ### Advanced
+
 1. Random Color Generator App
    - [Question](https://github.com/ozlembasabakar/AndroidZeroToHeroChallenges/blob/main/week3/randomColorGenerator/Random%20Color%20Generator%20App.md)
 
 2. Tip Calculator App
    - [Question](https://github.com/ozlembasabakar/AndroidZeroToHeroChallenges/blob/main/week3/tipCalculator/Tip%20Calculator%20App.md)
-     
+ 
 </details>
-
-<b></b>
 
 <details>
   <summary><b> Week 4-5 </b></summary>
